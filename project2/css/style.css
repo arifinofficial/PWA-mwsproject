@@ -1,0 +1,68 @@
+body {
+    padding: 0;
+    margin: 0; 
+    background: #263238;
+    font-family: monospace;
+}
+
+html, body, #map {
+    height: 100%;
+    width: 100vw;
+}
+
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.container{
+    display: grid;
+    height: 100%;
+    grid-gap: 1px;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows:15% 50% 35%;
+}
+
+.head{
+    grid-column: 1/-1;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.peta{
+    grid-column: 1/-1;
+    width: 100%;
+}
+
+.gambar{
+    background: #455A64;
+    grid-column: 1/4;
+    text-align: center;
+    padding-top: 10px;
+    color: #FFFFFF;
+}
+
+.review{
+    background: #455A64;
+    grid-column: 4/-1;
+    padding: 0 10px;
+    color: #FFFFFF;
+}
+
+img{
+    max-width: 450px;
+}
+
+@media screen and (max-width:540px)
+{
+    .gambar{
+        grid-column: 1/-1;
+    }
+    .review{
+        grid-column: 1/-1;
+        grid-row-start: 3;
+    }
+    .container{
+        grid-gap: 0;
+    }
+}

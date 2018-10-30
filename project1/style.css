@@ -1,0 +1,33 @@
+body{
+    color: #FFFFFF;
+    background: #263238;
+    text-align: center;
+    font-family: monospace;
+}
+
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.container{
+    max-width: 980px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 120px 200px;
+    grid-gap: 2px;
+    grid-gap: 10px;
+}
+
+.head{
+    background: #455A64;
+    grid-column: 1/-1;
+}
+
+.calc{
+    grid-row-start: 2;
+    background:#455A64;
+    grid-column:1/-1;
+    line-height: 200px;
+}

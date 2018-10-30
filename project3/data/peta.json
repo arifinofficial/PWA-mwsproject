@@ -1,0 +1,46 @@
+{
+    "places" : [
+        {
+            "lokasi" : [-8.798209, 115.172392],
+            "sponsor" : "Universitas Udayana",
+            "gambar" : "images/unud.jpg",
+            "review" : "Universitas Udayana, disingkat UNUD, adalah perguruan tinggi negeri di Bali, Indonesia, yang berdiri pada 29 September 1962. Rektor Universitas Udayana dari tahun 2017-2022 adalah Prof. Dr. dr. Anak Agung Raka Sudewi, Sp.S (K). Cikal bakal Unud adalah Fakultas Sastra Udayana cabang Universitas Airlangga yang diresmikan oleh P. J. M. Presiden Republik Indonesia Ir. Soekarno, dibuka oleh J. M. Menteri P.P dan K. Prof. DR. Priyono pada tanggal 29 September 1958 sebagaimana tertulis pada Prasasti di Fakultas Sastra Jalan Nias Denpasar."
+        },
+        {
+            "lokasi" : [-8.659275, 115.243107],
+            "sponsor" : "Universitas Warmadewa",
+            "gambar" : "images/warmadewa.jpg",
+            "review" : "Universitas Warmadewa atau biasa disingkat Unwar merupakan salah satu perguruan tinggi di Denpasar, Bali. Berada di lingkungan Kopertis Wilayah VIII di bawah naungan Yayasan Korpri Bali. Nama universitas diusulkan oleh Gubernur Bali saat itu, Prof. Dr. Ida Bagus Mantra (alm) untuk menghormati dan mengenang seorang raja Bali sebelum pemerintahan Majapahit, Sri Kesari Warmadewa. Pada Tanggal 12 November 1983, dalam acara Rapat Kerja Daerah Korpri Bali di Kertasabha Denpasar, Ketua Unit Korpri Universitas Udayana Drs. Putu Kuna Winaya mengusulkan pendirian Universitas Korpri, dengan prinsip dasar 'biaya pendidikan terjangkau dan mutu terjamin' yang kemudian dikembangkan menjadi 'bermutu, berintegritas dan berwawasan lingkungan'. Usulan pendirian Universitas Korpri ini dimaksudkan sebagai upaya untuk menampung aspirasi masyarakat yang belum terakomodasi di Perguruan Tinggi Negeri. Setelah mendapat ijin Korpri Pusat, Ketua Pengurus Korpri Bali (Drs. Sembah Subhakti) dan Ketua Korpri Unit Universitas Udayana (Drs. Putu Kuna Winaya) sepakat untuk membentuk Universitas Korpri."
+        },
+        {
+            "lokasi" : [-8.705814, 115.218510],
+            "sponsor" : "Universitas Pendidikan Ganesha",
+            "gambar" : "images/undiksha.jpg",
+            "review" : "Universitas Pendidikan Ganesha adalah sebuah perguruan tinggi negeri yang terdapat di Kota Singaraja, Bali, Indonesia. Universitas ini merupakan perguruan tinggi yang dikembangkan berdasarkan Pancasila dan Undang-Undang Dasar 1945 yang menjunjung nilai-nilai kemanusiaan, menghasilkan tenaga kependidikan dan tenaga non-kependidikan yang bertakwa kepada Tuhan Yang Maha Esa, memiliki kemampuan akademis-profesional yang tinggi, mengembangkan ilmu pengetahuan, teknologi, dan seni. Universitas Pendidikan Ganesha merupakan Universitas Pendidikan terbaik pertama di Provinsi Bali ini atau masuk 50 besar Top universitas di indonesia versi www.4icu.org/id/."
+        },
+        {
+            "lokasi" : [-8.653482, 115.232628],
+            "sponsor" : "Institut Seni Indonesia Denpasar",
+            "gambar" : "images/isi.jpg",
+            "review" : "Institut Seni Indonesia Denpasar Institut Seni Indonesia (ISI) Denpasar adalah perguruan tinggi seni yang diselenggarakan oleh Kemeterian Riset, Teknologi dan Pendidikan Tinggi yang berada di bawah dan bertanggung jawab langsung kepada Menteri Riset, Teknologi dan Pendidikan Tinggi. ISI Denpasar secara fungsional dibina oleh Kemeterian Riset, Teknologi dan Pendidikan Tinggi. ISI Denpasar didirikan berdasarkan Keputusan Presiden Republik Indonesia Nomor 33 Tahun 2003 tanggal 26 Mei 2003 yang merupakan integrasi dari Sekolah Tinggi Seni Indonesia (STSI) Denpasar dan Program Studi Seni Rupa dan Desain (PSSRD) Universitas Udayana."
+        },
+        {
+            "lokasi" : [-8.813386, 115.192148],
+            "sponsor" : "STP Bali",
+            "gambar" : "images/stp.jpg",
+            "review" : "Sekolah Tinggi Pariwisata Bali adalah perguruan tinggi negeri kedinasan di Bali, Indonesia, yang berdiri pada tahun 1978. Pemilik dan penanggung jawab perguruan tinggi ini adalah Kementerian Kebudayaan dan Pariwisata Republik Indonesia. Hingga kini, STP Nusa Dua sudah meluluskan lebih dari 4.000 tenaga ahli kepariwisataan. Banyak mahasiswa STP Nusa Dua sudah dikontrak oleh hotel, biro wisata, dan lembaga kepariwisataan sebelum menyelesaikan pendidikan D2, D3, D4, dan S.1. STP Nusa Dua Bali juga membuka program kelas sore untuk program D2, D3, dan D4 berjenjang. Persyaratan khusus calon mahasiswa adalah tinggi badan minimal 165 cm untuk pria dan 155 cm untuk wanita."
+        },
+        {
+            "lokasi" : [-8.673225, 115.226702],
+            "sponsor" : "Sekolah Tinggi Manajemen Informatika dan Teknik Komputer Stikom Bali",
+            "gambar" : "images/stikom.jpg",
+            "review" : "Sekolah Tinggi Manajemen Informatika dan Teknik Komputer (STMIK) STIKOM Bali, yang lebih dikenal dengan nama STIKOM Bali, merupakan sebuah perguruan tinggi swasta yang terletak di kota Denpasar. Berawal dari bertemunya pemerhati dan pencinta pendidikan yang menyadari perkembangan dunia teknologi informasi di Bali berkembang pesat namun tidak diimbangi dengan keberadaan Sekolah Tinggi Komputer di daerah tersebut. Kemudian untuk menjawab hal tersebut pada tanggal 10 Agustus 2002 dengan izin dari mendiknas RI No.157/D/O/2002, berdirilah Sekolah Tinggi Manajemen Informatika dan Teknik Komputer (STMIK) STIKOM Bali."
+        },
+        {
+            "lokasi" : [-8.696402, 115.226334],
+            "sponsor" : "Universitas Pendidikan Nasional",
+            "gambar" : "images/undiknas.jpg",
+            "review" : "Universitas Pendidikan Nasional, disingkat Undiknas adalah sebuah perguruan tinggi swasta di Denpasar, Bali. Perguruan tinggi ini didirikan oleh Prof. Dr. IGN Gorda ,M.S dan Drs. Ketut Sambereg, M.M. Sebelum berubah nama menjadi Universitas Pendidikan Nasional, dulu bernama AKABA (Akademi Keuangan dan Perbankan) yang berdiri pada tahun 17 Februari 1969 oleh Yayasan Pendidikan Kejuruan Nasional (YPKN)."
+        }
+    ]
+}
